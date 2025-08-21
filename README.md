@@ -17,7 +17,7 @@ This project showcases multiple JavaScript & React projects with beautiful UI, s
 
 ## 🖼️ Preview
 
-![Projects Gallery Screenshot](./ss.png)
+![Projects Gallery Screenshot](/ss.png)
 
 ---
 
