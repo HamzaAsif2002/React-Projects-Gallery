@@ -1,41 +1,41 @@
 [
   {
-    "img": "/public/reactProjects/movieflix.png",
+    "img": "/reactProjects/movieflix.png",
     "name": "Movie App",
     "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
     "github": "https://github.com/HamzaAsif2002/MovieZone-website",
     "livedemo": "https://movie-zone-website.vercel.app/"
   },
   {
-    "img": "/public/reactProjects/countryexploror.png",
+    "img": "/reactProjects/countryexploror.png",
     "name": "Country Exploror",
     "discription": "A responsive React web app that displays country data such as flag, name, population, capital, region, currency, and languages using the REST Countries API. Users can search, sort alphabetically, and filter countries by region.",
     "github": "https://github.com/HamzaAsif2002/CountryExplorer",
     "livedemo": "https://country-explorer-ochre.vercel.app/"
   },
   {
-    "img": "/public/reactProjects/moviezone.png",
+    "img": "/reactProjects/moviezone.png",
     "name": "MovieFlix Website",
     "discription": "A sleek React movie app powered by the OMDB API that lets users browse popular movies, filter by categories, and view detailed information.",
     "github": "https://github.com/HamzaAsif2002/MovieFlix",
     "livedemo": "https://movie-flix-by-hamza.vercel.app/Movies"
   },
   {
-    "img": "/public/reactProjects/pokemon.png",
+    "img": "/reactProjects/pokemon.png",
     "name": "Pokemon-Character-Hunter",
     "discription": "A responsive React application to browse Pokémon characters using the PokéAPI. Includes real-time search, dynamic card UI, type-based badges, and clean animations.",
     "github": "https://github.com/HamzaAsif2002/Pokemon-character-hunter",
     "livedemo": "https://hamza-pokemon-character-hunter.vercel.app/"
   },
   {
-    "img": "/public/reactProjects/reactquery.png",
+    "img": "/reactProjects/reactquery.png",
     "name": "TanStack / React-Query",
     "discription": "This project is a React-based application demonstrating data fetching and caching using TanStack React Query.",
     "github": "https://github.com/HamzaAsif2002/TanStack-React-Query",
     "livedemo": "https://tan-stack-react-query-sigma.vercel.app/"
   },
   {
-    "img": "/public/reactProjects/axios.png",
+    "img": "/reactProjects/axios.png",
     "name": "Axios CRUD Operation",
     "discription": "A simple React app that performs complete CRUD operations using Axios. Users can add, edit, view, and delete posts with real-time updates and clean UI. Built with functional components, React hooks, and Axios for API communication.",
     "github": "https://github.com/HamzaAsif2002/React-Axios-CRUD",
