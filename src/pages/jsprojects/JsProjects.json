@@ -1,0 +1,51 @@
+[
+  {
+    "img": "/public/jsProjects/ecommerceStore.png",
+    "name": "E-Commerce Store",
+    "discription": "A modern e-commerce website built with HTML, CSS, Bootstrap, and JavaScript. Features include interactive product cards, add-to-cart functionality, adjustable quantities, remove-from-cart option, and smooth animations for an engaging user experience.",
+    "github": "https://github.com/HamzaAsif2002/E-Commerce-Store",
+    "livedemo": "https://e-commerce-store-one-livid.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/weatherapp.png",
+    "name": "Weather App",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://weather-app-jet-three-28.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/todolist.png",
+    "name": "To-Do-List",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://to-do-list-one-taupe-74.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/gradientmaker.png",
+    "name": "Color Gradient Maker",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://color-gradient-maker.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/stopwatch.png",
+    "name": "Stop Watch",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://stop-watch-xi-rust.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/dynamicquiz.png",
+    "name": "Dynamic Quiz",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://dynamic-quiz-two.vercel.app/"
+  },
+  {
+    "img": "/public/jsProjects/passwardgenerator.png",
+    "name": "Passward Generator",
+    "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
+    "github": "https://github.com/HamzaAsif2002/js-mini-projects",
+    "livedemo": "https://random-passward-generator.vercel.app/"
+  }
+]

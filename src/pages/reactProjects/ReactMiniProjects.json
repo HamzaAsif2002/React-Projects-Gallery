@@ -1,0 +1,9 @@
+[
+  {
+    "img": "/public/reactminiProjects/todolist.png",
+    "name": "To-Do-List",
+    "discription": "A simple and responsive To-Do List application built with React and CSS. Supports task adding, completion toggling, deletion, and persistent storage using localStorage.",
+    "github": "https://github.com/HamzaAsif2002/react-todo-app",
+    "livedemo": "https://react-hamza-todo.vercel.app/"
+  }
+]
