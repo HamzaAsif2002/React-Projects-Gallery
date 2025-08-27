@@ -1,5 +1,12 @@
 [
   {
+    "img": "/reactProjects/shoplane.png",
+    "name": "ShopLane",
+    "discription": "A modern and responsive e-commerce web app built with React and Tailwind CSS. Features product detail page, cart management using local storage, and a clean shopping experience.",
+    "github": "https://github.com/HamzaAsif2002/ShopLane",
+    "livedemo": "https://shoplane-by-hamza.vercel.app/"
+  },
+  {
     "img": "/reactProjects/movieflix.png",
     "name": "Movie App",
     "discription": "A responsive and modern movie website built with React and Tailwind CSS. Features dynamic carousels, smooth animations, and an engaging UI for movies, series, and cartoons.",
